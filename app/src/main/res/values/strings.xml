@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestFaceLibrary</string>
+
+    <string name="progress_dialog_title">Please wait</string>    <string name="take_photo">Take a Photo</string>
+</resources>
