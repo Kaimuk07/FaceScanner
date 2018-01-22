@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LibraryFaceScan.iml" filepath="$PROJECT_DIR$/LibraryFaceScan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FaceScanner.iml" filepath="$PROJECT_DIR$/FaceScanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/facescanlibrary/facescanlibrary.iml" filepath="$PROJECT_DIR$/facescanlibrary/facescanlibrary.iml" />
     </modules>
