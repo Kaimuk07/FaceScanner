@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity implements ServiceFaceScan.C
         GlobalFaceScan.getInstance().setRequest_carmera2(2628);//default value 2628
         GlobalFaceScan.getInstance().setRequest_carmera_none(2629); //default value 2629
         setUpServiceFaceScan();
-        
+
     }
 
     private void setUpServiceFaceScan() {
