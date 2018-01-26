@@ -18,7 +18,7 @@ Step 2
 Add the dependency:
 ```
 dependencies {
-		compile 'com.github.Kaimuk07:LibraryFaceScan:v3.1'
+		compile 'com.github.Kaimuk07:FaceScanner:3.0'
 	}
 ```
 
